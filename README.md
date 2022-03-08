@@ -1,5 +1,32 @@
 Abaixo segue o objetivo desse desafio, elaborado e disponibilizado por Camila Cavalcante:https://github.com/cami-la/desafio-poo-dio
 
+:exclamation:*Atualização 2022/03/08*
+
+
+
+Nesse projeto foi acrescentado uma interface por meio de JFrame e JmenuBar, foi adicionado dinâmica com o JOptionPane.showInputDialog ao qual solicita o usuário as informações referentes ao bootcamp, cursos e mentoria e depois imprime as informações em uma caixa de diálogo.
+
+
+
+ :point_right:Instruções:
+
+-Clique em Main e selecione Run oou Shift+F10;
+
+-Clique no Menu bootcamp e selecione Adicionar Curso.
+
+
+
+:grin:Observações e implementações futuras:
+
+-Como próximas atualizações os Submenus devem funcionar e assim, separar as caixas de diálogo;
+
+-Será possível salvar os dados em um arquivo Jason ou txt;
+
+-Para funções de progredir é necessário tirar os comentários.
+
+
+
+
 Desafio: Aprenda na Prática Programação Orientada a Objetos
 Sejam bem-vindos ao desafio: APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.
 Desafio este que tive a honra de co-criar com a plataforma de cursos online DIGITAL INNOVATION ONE 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
@@ -99,6 +126,4 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 Este repositório foi criado para fins de estudo, então contribua com ele.
 Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 
-Se possível:
-⭐️ Star o projeto
-🐛 Encontrar e relatar issues
+
